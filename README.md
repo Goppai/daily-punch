@@ -1,1 +1,1 @@
-# dailyPunch
+# daily-punch
